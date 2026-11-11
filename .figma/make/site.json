@@ -1,0 +1,10 @@
+{
+  "description": "An interactive romantic-comedy experience from Sidharth to Niranjana, blending personal stories, playful animations, and humor into a charming effort to make her smile.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
